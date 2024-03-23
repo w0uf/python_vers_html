@@ -9,7 +9,7 @@ imperatifs :
 
 """
 # constantes css
-intro = "<em ><a style=\"margin-left:35px; color:grey;\" href=\"http://site2wouf.fr/python_vers_html.php\">"
+intro = "<em ><a style=\"margin-left:35px; color:grey;\" href=\"https://site2wouf.fr/python_vers_html.php\">"
 intro += "Code Python traduit en HTML: </a></em>"
 intro += """<code><pre style=\"margin-top:2px; margin-left:20px; font-size:120%;border-radius: 20px; 
  max-width:600px; max-height:600px; padding-left :15px; overflow-x:auto; 
